@@ -1,6 +1,5 @@
 # data-visualization-using-plotly
 Interactive Data Visualization using Plotly (Line, 3D, Sunburst, Area Charts)
-#  Data Visualization using Plotly
 
 ## Project Overview
 This project demonstrates interactive data visualization using Plotly in Python.
